@@ -100,3 +100,6 @@ gulp.task('default', ['js', 'stylus', 'browser-sync', 'watch']);
 
 // build to deploy
 gulp.task('build', ['js', 'stylus', 'jekyll-build']);
+
+// Windows 10
+spawn('jekyll.bat', ['build'])

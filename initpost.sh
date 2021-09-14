@@ -46,7 +46,7 @@ POSTPATH="${BINPATH}/_posts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
-BLOG_URL="https://willianjusten.com.br"
+BLOG_URL="https://kimsohee-portfolio.netlify.app"
 
 # Set your assets URL
 ASSETS_URL="assets/img/"
@@ -96,7 +96,7 @@ Options:
   -h, --help        output instructions
   -c, --create      create post
 Example:
-  ./initpost.sh -c How to replace strings with sed
+./initpost.sh -c How to replace strings with sed
 Important Notes:
   - This script was created to generate new text files to my blog.
 Copyright (c) Vitor Britto

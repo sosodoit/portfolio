@@ -1,12 +1,12 @@
 # Site settings
-title: Sohee Kim - Data AnalArtist
-description: A blog about Portfolio
+title: 김소희의 포트폴리오
+description: "Data-AnalArtist: Sohee Kim"
 baseurl: "" # the subpath of your site, e.g. /portfolio
-url: "http://sosodoit.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://kimsohee-portfolio.netlify.app" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: sosodoit
-user_description:  I am a Data-AnalArtist
+username: "Data-AnalArtist: Sohee Kim"
+user_description:  Data Analartist who is Inquistive, Concentration, And A Fast-Learner. Also, I love the beautiful things.
 email: rosesh0218@gmail.com
 # twitter_username: lorem_ipsum
 github_username:  sosodoit
