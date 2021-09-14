@@ -1,12 +1,46 @@
-⚠️⚠️ This project is not maintained anymore ⚠️⚠️
-
-## Cards Jekyll Template - [Demo](https://willianjusten.github.io/cards-jekyll-template)
-
+# KimSohee Portfolio
 ![Screenshot](screenshot.png)
 
-This is a simple and minimalist template for Jekyll designed for developers that want to write blog posts but don't want to care about frontend stuff.
+---
 
-The Theme features:
+## What is it?
+프로젝트 과정과 산출물을 가지고 포트폴리오를 만들어보았습니다. 즐겁게 봐주세요.
+
+## Team Projects
+
+### 1
+- Role
+- Team
+- Platforms
+- Date
+
+- Overview
+- Issue
+
+## Skill Set Using Projects
+Backend:
+- ㄱ
+- ㄴ
+
+Frontend:
+- ㄷ
+- ㄹ
+
+Communication:
+- ㅁ
+
+## Connect With Me
+- Email
+- CV
+
+---
+
+아래부터는 사용한 Template에 대한 정보입니다.
+
+## Cards Jekyll Template
+See the [demo here](https://willianjusten.github.io/cards-jekyll-template)
+
+## The Theme features:
 
 - Gulp
 - Stylus (Jeet, Rupture, Kouto Swiss)
@@ -23,42 +57,18 @@ The Theme features:
 - Color Customization
 - Info Customization
 
-If you want to see this template in real action, take a look at my [original site](http://willianjusten.com.br/).
-
 ## Basic Setup
 
-1. [Install Jekyll](http://jekyllrb.com) (use the command ```sudo gem install jekyll```)
-2. Fork the [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template/fork)
-3. Clone the repo you just forked.
-4. Edit `_config.yml` to personalize your site.
-5. Check out the sample posts in `_posts` to see examples for assigning categories and tags, and other YAML data.
-6. Read the documentation below for further customization pointers and documentation.
+1. [Jekyll 설치](http://jekyllrb.com) (use the command ```sudo gem install jekyll```)
+2. 템플릿 가져옵니다. [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template/fork)
+3. 로컬 환경에 클론합니다.
+4. `_config.yml`파일을 나에게 맞게 수정합니다.
+5. 샘플 포스트에 사용하는 방법이 기록되어 있습니다. 확인하세요. `_posts`
 7. **Remember to compile your assets files with Gulp.**
-
-## Site and User Settings
-
-You have to fill some informations on `_config.yml` to customize your site.
-
-```
-# Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
-url: "http://localhost:3000" # the base hostname & protocol for your site 
-
-# User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
-```
 
 ## Header Name
 
-To use the power of CSS Content and media query, the header name is defined on [src/styl/_header.styl](src/styl/_header.styl). Change to your prefered name.
+[src/styl/_header.styl](src/styl/_header.styl). 해당 경로에서 header 이름을 변경할 수 있습니다.
 
 ## Color customization
 
@@ -109,17 +119,6 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Run `npm install`
 - Run `npm install -g gulp gulp-cli`
 - Run `gulp`
-
-## Questions
-
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@willian_justen](https://twitter.com/willian_justen) or file a [GitHub Issue](https://github.com/willianjusten/will-jekyll-template/issues/new).
-
-
-## Donation
-
-If you liked my work, buy me a coffee <3
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTMFZUHX6EUGE)
 
 ## License
 
